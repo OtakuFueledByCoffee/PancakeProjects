@@ -23,7 +23,7 @@ namespace FixedPjMoonDnDRoller
                 userInput = Console.ReadLine()!;
                 intUserInput = int.Parse(userInput);
 
-                generatedNumber = RNG.Next(1, 5);
+                generatedNumber = RNG.Next(1, 11);
                 if (generatedNumber == 1)
                 {
                     Console.WriteLine("\n----------------------");
