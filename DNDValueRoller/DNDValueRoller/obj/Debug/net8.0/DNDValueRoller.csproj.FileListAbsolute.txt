@@ -1,0 +1,14 @@
+C:\Users\legof\OneDrive\Documents\Personal Projects\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\DNDValueRoller.exe
+C:\Users\legof\OneDrive\Documents\Personal Projects\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\DNDValueRoller.deps.json
+C:\Users\legof\OneDrive\Documents\Personal Projects\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\DNDValueRoller.runtimeconfig.json
+C:\Users\legof\OneDrive\Documents\Personal Projects\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\DNDValueRoller.dll
+C:\Users\legof\OneDrive\Documents\Personal Projects\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\DNDValueRoller.pdb
+C:\Users\legof\OneDrive\Documents\Personal Projects\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\DNDValueRoller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\legof\OneDrive\Documents\Personal Projects\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\DNDValueRoller.AssemblyInfoInputs.cache
+C:\Users\legof\OneDrive\Documents\Personal Projects\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\DNDValueRoller.AssemblyInfo.cs
+C:\Users\legof\OneDrive\Documents\Personal Projects\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\DNDValueRoller.csproj.CoreCompileInputs.cache
+C:\Users\legof\OneDrive\Documents\Personal Projects\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\DNDValueRoller.dll
+C:\Users\legof\OneDrive\Documents\Personal Projects\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\DNDValueRoller.dll
+C:\Users\legof\OneDrive\Documents\Personal Projects\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\DNDValueRoller.pdb
+C:\Users\legof\OneDrive\Documents\Personal Projects\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\DNDValueRoller.genruntimeconfig.cache
+C:\Users\legof\OneDrive\Documents\Personal Projects\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\DNDValueRoller.dll
