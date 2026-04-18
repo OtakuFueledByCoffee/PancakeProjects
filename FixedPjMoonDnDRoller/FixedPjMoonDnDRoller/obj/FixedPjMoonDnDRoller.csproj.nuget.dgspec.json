@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\legof\\OneDrive\\Documents\\Personal Projects\\PancakeProjects\\DNDValueRoller\\DNDValueRoller\\DNDValueRoller.csproj": {}
+    "C:\\Users\\legof\\OneDrive\\Documents\\Personal Projects\\PancakeProjects\\FixedPjMoonDnDRoller\\FixedPjMoonDnDRoller\\FixedPjMoonDnDRoller.csproj": {}
   },
   "projects": {
-    "C:\\Users\\legof\\OneDrive\\Documents\\Personal Projects\\PancakeProjects\\DNDValueRoller\\DNDValueRoller\\DNDValueRoller.csproj": {
+    "C:\\Users\\legof\\OneDrive\\Documents\\Personal Projects\\PancakeProjects\\FixedPjMoonDnDRoller\\FixedPjMoonDnDRoller\\FixedPjMoonDnDRoller.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\legof\\OneDrive\\Documents\\Personal Projects\\PancakeProjects\\DNDValueRoller\\DNDValueRoller\\DNDValueRoller.csproj",
-        "projectName": "DNDValueRoller",
-        "projectPath": "C:\\Users\\legof\\OneDrive\\Documents\\Personal Projects\\PancakeProjects\\DNDValueRoller\\DNDValueRoller\\DNDValueRoller.csproj",
+        "projectUniqueName": "C:\\Users\\legof\\OneDrive\\Documents\\Personal Projects\\PancakeProjects\\FixedPjMoonDnDRoller\\FixedPjMoonDnDRoller\\FixedPjMoonDnDRoller.csproj",
+        "projectName": "FixedPjMoonDnDRoller",
+        "projectPath": "C:\\Users\\legof\\OneDrive\\Documents\\Personal Projects\\PancakeProjects\\FixedPjMoonDnDRoller\\FixedPjMoonDnDRoller\\FixedPjMoonDnDRoller.csproj",
         "packagesPath": "C:\\Users\\legof\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\legof\\OneDrive\\Documents\\Personal Projects\\PancakeProjects\\DNDValueRoller\\DNDValueRoller\\obj\\",
+        "outputPath": "C:\\Users\\legof\\OneDrive\\Documents\\Personal Projects\\PancakeProjects\\FixedPjMoonDnDRoller\\FixedPjMoonDnDRoller\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
