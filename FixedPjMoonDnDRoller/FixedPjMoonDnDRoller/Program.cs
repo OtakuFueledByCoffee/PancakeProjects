@@ -75,35 +75,53 @@ namespace FixedPjMoonDnDRoller
             // Prompting user for minimum and maximum values
             Console.WriteLine("\n----------------------");
             Console.Write("Enter minimum value: ");
+
+            Console.ForegroundColor = ConsoleColor.Yellow;
             userInput = Console.ReadLine()!;
+            Console.ForegroundColor = ConsoleColor.Gray;
 
             min = int.Parse(userInput);
 
             Console.Write("Enter maximum value: ");
+
+            Console.ForegroundColor = ConsoleColor.Yellow;
             userInput = Console.ReadLine()!;
+            Console.ForegroundColor = ConsoleColor.Gray;
 
             max = int.Parse(userInput);
 
             // Prompting user for how many times to roll
             Console.Write("Enter how many times to roll: ");
+            Console.ForegroundColor = ConsoleColor.Yellow;
             userInput = Console.ReadLine()!;
+            Console.ForegroundColor = ConsoleColor.Gray;
             timesRolled = int.Parse(userInput);
 
             // Tell user dice is being rolled
-            Console.WriteLine($"\nRolling {min}-{max} {timesRolled} time(s)\n");
+            Console.Write($"\nRolling {min}-{max} ");
+            Console.ForegroundColor = ConsoleColor.Yellow;
+            Console.Write(timesRolled);
+            Console.ForegroundColor = ConsoleColor.Gray;
+            Console.WriteLine(" time(s)\n");
 
             // For loop to calculate each dice roll and total of all rolls
             for (int i = 0; i < timesRolled; i++)
             {
                 numberRolled = RNG.Next(min, max + 1);
 
-                Console.WriteLine($"\t{i + 1}: {numberRolled}");
+                Console.Write($"\t{i + 1}: ");
+                Console.ForegroundColor = ConsoleColor.Yellow;
+                Console.WriteLine(numberRolled);
+                Console.ForegroundColor = ConsoleColor.Gray;
 
                 total = total + numberRolled;
             }
 
             // Display total of all rolls
-            Console.WriteLine($"\nTotal: {total}");
+            Console.Write($"\nTotal: ");
+            Console.ForegroundColor = ConsoleColor.Yellow;
+            Console.WriteLine(total);
+            Console.ForegroundColor = ConsoleColor.Gray;
             Console.WriteLine("----------------------\n");
         }
     }
