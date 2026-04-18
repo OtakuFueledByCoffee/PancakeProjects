@@ -1,0 +1,15 @@
+C:\Users\legof\OneDrive\Documents\Personal Projects\PancakeProjects\FixedPjMoonDnDRoller\FixedPjMoonDnDRoller\bin\Debug\net8.0\FixedPjMoonDnDRoller.exe
+C:\Users\legof\OneDrive\Documents\Personal Projects\PancakeProjects\FixedPjMoonDnDRoller\FixedPjMoonDnDRoller\bin\Debug\net8.0\FixedPjMoonDnDRoller.deps.json
+C:\Users\legof\OneDrive\Documents\Personal Projects\PancakeProjects\FixedPjMoonDnDRoller\FixedPjMoonDnDRoller\bin\Debug\net8.0\FixedPjMoonDnDRoller.runtimeconfig.json
+C:\Users\legof\OneDrive\Documents\Personal Projects\PancakeProjects\FixedPjMoonDnDRoller\FixedPjMoonDnDRoller\bin\Debug\net8.0\FixedPjMoonDnDRoller.dll
+C:\Users\legof\OneDrive\Documents\Personal Projects\PancakeProjects\FixedPjMoonDnDRoller\FixedPjMoonDnDRoller\bin\Debug\net8.0\FixedPjMoonDnDRoller.pdb
+C:\Users\legof\OneDrive\Documents\Personal Projects\PancakeProjects\FixedPjMoonDnDRoller\FixedPjMoonDnDRoller\obj\Debug\net8.0\FixedPjMoonDnDRoller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\legof\OneDrive\Documents\Personal Projects\PancakeProjects\FixedPjMoonDnDRoller\FixedPjMoonDnDRoller\obj\Debug\net8.0\FixedPjMoonDnDRoller.AssemblyInfoInputs.cache
+C:\Users\legof\OneDrive\Documents\Personal Projects\PancakeProjects\FixedPjMoonDnDRoller\FixedPjMoonDnDRoller\obj\Debug\net8.0\FixedPjMoonDnDRoller.AssemblyInfo.cs
+C:\Users\legof\OneDrive\Documents\Personal Projects\PancakeProjects\FixedPjMoonDnDRoller\FixedPjMoonDnDRoller\obj\Debug\net8.0\FixedPjMoonDnDRoller.csproj.CoreCompileInputs.cache
+C:\Users\legof\OneDrive\Documents\Personal Projects\PancakeProjects\FixedPjMoonDnDRoller\FixedPjMoonDnDRoller\obj\Debug\net8.0\FixedPjMoonDnDRoller.sourcelink.json
+C:\Users\legof\OneDrive\Documents\Personal Projects\PancakeProjects\FixedPjMoonDnDRoller\FixedPjMoonDnDRoller\obj\Debug\net8.0\FixedPjMoonDnDRoller.dll
+C:\Users\legof\OneDrive\Documents\Personal Projects\PancakeProjects\FixedPjMoonDnDRoller\FixedPjMoonDnDRoller\obj\Debug\net8.0\refint\FixedPjMoonDnDRoller.dll
+C:\Users\legof\OneDrive\Documents\Personal Projects\PancakeProjects\FixedPjMoonDnDRoller\FixedPjMoonDnDRoller\obj\Debug\net8.0\FixedPjMoonDnDRoller.pdb
+C:\Users\legof\OneDrive\Documents\Personal Projects\PancakeProjects\FixedPjMoonDnDRoller\FixedPjMoonDnDRoller\obj\Debug\net8.0\FixedPjMoonDnDRoller.genruntimeconfig.cache
+C:\Users\legof\OneDrive\Documents\Personal Projects\PancakeProjects\FixedPjMoonDnDRoller\FixedPjMoonDnDRoller\obj\Debug\net8.0\ref\FixedPjMoonDnDRoller.dll

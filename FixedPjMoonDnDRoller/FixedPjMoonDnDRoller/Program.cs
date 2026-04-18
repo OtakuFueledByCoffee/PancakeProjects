@@ -11,6 +11,7 @@ namespace FixedPjMoonDnDRoller
             Random RNG = new Random();
 
             // Declaring values
+            int generatedNumber;
             int intUserInput = 1;
             string userInput;
 
@@ -21,6 +22,22 @@ namespace FixedPjMoonDnDRoller
                 Console.Write("Enter 1 to roll or 0 to quit: ");
                 userInput = Console.ReadLine()!;
                 intUserInput = int.Parse(userInput);
+
+                generatedNumber = RNG.Next(1, 5);
+                if (generatedNumber == 1)
+                {
+                    Console.WriteLine("\n----------------------");
+                    Console.ForegroundColor = ConsoleColor.DarkRed;
+                    Console.WriteLine("KILL HELIO KILL HELIO KILL HELIO");
+                    Console.WriteLine("KILL HELIO KILL HELIO KILL HELIO");
+                    Console.WriteLine("KILL HELIO KILL HELIO KILL HELIO");
+                    Console.WriteLine("KILL HELIO KILL HELIO KILL HELIO");
+                    Console.WriteLine("KILL HELIO KILL HELIO KILL HELIO");
+                    Console.WriteLine("KILL HELIO KILL HELIO KILL HELIO");
+                    Console.ForegroundColor = ConsoleColor.Gray;
+                    Console.WriteLine("----------------------\n");
+                }
+
                 if (intUserInput == 1)
                 {
                     // Calling method to roll values

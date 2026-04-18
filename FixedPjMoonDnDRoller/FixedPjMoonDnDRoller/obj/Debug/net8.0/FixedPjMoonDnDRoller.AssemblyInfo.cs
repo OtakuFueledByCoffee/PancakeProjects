@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FixedPjMoonDnDRoller")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f4584cdce365105110402df000ea526bd277ab20")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8793d1037360d7959257796b654913e0af79b5ad")]
 [assembly: System.Reflection.AssemblyProductAttribute("FixedPjMoonDnDRoller")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FixedPjMoonDnDRoller")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
